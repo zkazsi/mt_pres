@@ -1,0 +1,40 @@
+installed base, installed base
+redesign, redesign, redesign, redesign
+prediction systems
+PCN, PCN, PCN, PCN, PCN
+PDN, PDN, PDN
+postponement
+bridge buy, bridge buy, bridge buy
+last time buy, last time buy, last time buy, last time buy
+partial upgrade, partial upgrade
+system upgrade, system upgrade, system upgrade
+escrow
+military, military, military 
+protected storage, protected storage, protected storage
+DMSMS, DMSMS, DMSMS
+EN62402, EN62402
+proactive, proactive, proactive
+reactive, reactive
+reengineering, reengineering, reengineering, reengineering, reengineering
+re-manufacturing, re-manufacturing, re-manufacturing, re-manufacturing
+test systems, test systems, test systems
+production infrastructure, production infrastructure
+software obsolescence, software obsolescence, software obsolescence, software obsolescence
+firmware, firmware, firmware, firmware
+application software, application software, application software
+COTS, COTS, COTS, COTS
+long term storage, long term storage, long term storage, long term storage
+overhaul, overhaul, overhaul, overhaul, overhaul
+alternative, alternative, alternative, alternative
+reclamation, reclamation, reclamation
+emulation, emulation, emulation, emulation
+continous modernisation, continous modernisation, continous modernisation
+tech refresh, tech refresh, tech refresh
+bridge buy, bridge buy, bridge buy, bridge buy
+early warning database, early warning database, early warning database
+IHS, IHS, IHS, IHS
+HTV, HTV
+design for obsolescence, design for obsolescence
+distributors,distributors, distributors, distributors
+brokers, brokers, brokers, brokers, brokers
+Rochester, Rochester, Rochester
